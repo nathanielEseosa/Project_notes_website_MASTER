@@ -1,0 +1,139 @@
+
+
+body {
+
+
+  font-family: 'Teko', sans-serif;
+  margin: 0% 250px;
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/79086/gaussian_blur_simple_background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.myNotes {
+  display: flex;
+  flex-flow: column;
+  background-color: rgba(229, 243, 249, 0.5);
+  margin: -15px 50px;
+  font-size: 25px;
+}
+
+
+ul {
+  margin: 16px 50px;
+  border-radius: 30px;
+}
+
+
+h1 {
+  font-size: 40px;
+}
+
+
+h2 {
+  margin: 22px 50px;
+  font-size: 27px;
+}
+
+
+h3 {
+  margin: 23px 50px;
+  background-color: #b4daea;
+  padding-left: 10px;
+  font-size: 23px;
+}
+
+
+.h3myNotes {
+  padding-left: 10px;
+  background-color: rgba(229, 243, 249, 0.2);
+}
+
+
+li {
+  background-color: rgba(229, 243, 249, 0.2);
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+
+.days {
+  margin: 30px 50px 5px;
+  background-color: #b4daea;
+  text-align: center;
+}
+
+
+img {
+  width: 200px;
+  height: 127px;
+  border-style: inset;
+
+}
+
+
+figcaption {
+  text-align: center;
+  width: 200px;
+}
+
+
+.title {
+  text-align: center;
+}
+
+
+.description {
+  max-width: 1000px;
+  margin: -15px 50px 0px 50px;
+  padding-left: 10px;
+  font-size: 23px
+}
+
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.goTop {
+  text-align: right;
+  margin: 1% 50px;
+}
+
+
+img {
+  margin: 20px 0px 0px 50px;
+  width: 92.6%;
+  height: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/** {
+   outline: 1px solid red !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}*/
